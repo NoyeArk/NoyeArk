@@ -1,6 +1,6 @@
 
 <!-- ### Hi there 👋-->
-<h4 align=""> <img align="left" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/run-fast.gif?raw=true" width="70"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/star-jumping.gif?raw=true" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td></h4>
+<div align=""> <img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=heartyang520&theme=radical&show_icons=true><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="40%">
  
 <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark" alt="GitHub Streak" /></a>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
