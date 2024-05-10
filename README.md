@@ -2,7 +2,7 @@
 <!-- ### Hi there 👋-->
 <div>
     <img align="left" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="35%">
-    <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%"> -->
