@@ -1,6 +1,13 @@
 
 <!-- ### Hi there 👋-->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark" alt="GitHub Streak" /></a>
+<div class="container">
+    <div class="content">
+        <!-- 在此处放置您页面的主要内容 -->
+    </div>
+    <div class="sidebar">
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark" alt="GitHub Streak" /></a>
+    </div>
+</div>
 <!--
 **NoyeArk/NoyeArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
