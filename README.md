@@ -1,6 +1,6 @@
 
 <!-- ### Hi there 👋-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark" alt="GitHub Streak" /></a>
 <!--
 **NoyeArk/NoyeArk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
