@@ -1,7 +1,7 @@
 
 <!-- ### Hi there 👋-->
 <div>
-    <img align="left" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="20%">
+    <img align="left" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="30%">
     <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=NoyeArk&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
 
