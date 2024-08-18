@@ -7,7 +7,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture> -->
-    <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="33%">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="45%">
     <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=NoyeArk&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
