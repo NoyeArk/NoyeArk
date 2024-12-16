@@ -10,10 +10,10 @@
 <!--     <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="38%"> -->
 <!--     <img align="left" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="33%"> -->
     <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="38%">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoyeArk&theme=cobalt&hide_border=false" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoyeArk&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-![NoyeArk's github stats](https://github-readme-stats.vercel.app/api?username=NoyeArk&show_icons=true)
+<!--     ![NoyeArk's github stats](https://github-readme-stats.vercel.app/api?username=NoyeArk&show_icons=true) -->
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="30" width="100%">
 <!--
