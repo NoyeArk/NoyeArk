@@ -11,13 +11,11 @@
 <!--     <img align="left" src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true.gif" width="33%"> -->
     <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="38%">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoyeArk&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
-</div> <br>
+</div>  
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2056%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2056%20mins-blue)  ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 📊 **This Week I Spent My Time On** 
 
