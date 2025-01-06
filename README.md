@@ -19,17 +19,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 1.6 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
