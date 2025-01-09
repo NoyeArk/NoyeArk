@@ -14,19 +14,34 @@
 </div>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2035%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
-📊 **This Week I Spent My Time On** 
+**🐱 My GitHub Data** 
+
+> 📦 1.6 MB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 6 Private Repositories 
+ > 
+**I Mostly Code in Python** 
 
 ```text
-💬 Programming Languages: 
-Python                   18 hrs 26 mins      █████████████████░░░░░░░░   69.22 % 
-Markdown                 5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Go                       17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-CSV                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
+
+
+
+ Last Updated on 09/01/2025 18:47:32 UTC
 <!--END_SECTION:waka-->
 
 <!--     ![NoyeArk's github stats](https://github-readme-stats.vercel.app/api?username=NoyeArk&show_icons=true) -->
