@@ -33,4 +33,4 @@ jobs:
           SHOW_PROJECTS: False
 
           # 设置进度条形状
-          SYMBOL_VERSION: 2
+          # SYMBOL_VERSION: 2
