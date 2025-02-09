@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: True
           # 时间线
           SHOW_LOC_CHART: False
           # 隐藏在一周中不同日期进行的提交
