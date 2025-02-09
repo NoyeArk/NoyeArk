@@ -18,3 +18,7 @@ jobs:
           SHOW_LOC_CHART: False
           # 隐藏在一周中不同日期进行的提交
           SHOW_DAYS_OF_WEEK: False
+          # 隐藏操作系统
+          SHOW_OS: False
+          # 隐藏时区
+          SHOW_TIMEZONE: False
