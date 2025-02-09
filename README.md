@@ -20,18 +20,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.6%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 1.6 MB Used in GitHub's Storage 
- > 
-> 🏆 67 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -56,7 +44,7 @@ C                        1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 09/02/2025 09:53:27 UTC
+ Last Updated on 09/02/2025 09:58:01 UTC
 <!--END_SECTION:waka-->
 
 <!--     ![NoyeArk's github stats](https://github-readme-stats.vercel.app/api?username=NoyeArk&show_icons=true) -->
