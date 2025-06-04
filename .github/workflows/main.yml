@@ -16,6 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_SHORT_INFO: False
           SHOW_LINES_OF_CODE: True
+
+          # fix butg
+          SHOW_PROFILE_VIEWS: False
           
           # 时间线
           SHOW_LOC_CHART: False
