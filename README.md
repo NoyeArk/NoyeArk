@@ -14,7 +14,7 @@
 </div>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C420%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -22,7 +22,7 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -38,7 +38,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 19/05/2026 20:28:01 UTC
+ Last Updated on 20/05/2026 20:47:16 UTC
 <!--END_SECTION:waka-->
 
 <!--     ![NoyeArk's github stats](https://github-readme-stats.vercel.app/api?username=NoyeArk&show_icons=true) -->
