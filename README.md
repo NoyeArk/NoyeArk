@@ -14,9 +14,9 @@
 </div>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C451%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-196%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -24,36 +24,36 @@
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 5 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.42 % 
-TypeScript               3 hrs 16 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.42 % 
-Vue                      2 hrs 31 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.42 % 
-Markdown                 2 hrs 11 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.65 % 
-Bash                     36 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.20 % 
+Python                   8 hrs 25 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.51 % 
+TypeScript               3 hrs 49 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.82 % 
+Vue                      3 hrs 15 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.08 % 
+Markdown                 2 hrs 55 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.37 % 
+Bash                     31 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 43 mins (94.45%)
+⏱ AI Coding Time: 18 hrs 50 mins (92.73%)
 
-✍️ 11,736 lines written by AI, 96 lines written by hand (99.19% AI-written)
+✍️ 11,746 lines written by AI, 89 lines written by hand (99.25% AI-written)
 
-🔤 11,843,241 Input Tokens, 1,209,879 Output Tokens
+🔤 12,658,160 Input Tokens, 1,321,240 Output Tokens
 
-💵 $721.48 Estimated AI Cost This Week
+💵 $796.21 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 546 AI Prompts
+🧠 45 AI Sessions, 579 AI Prompts
 
-M                        12,513 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.77 % 
-Qwen                     138 lines           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.09 % 
+M                        12,676 lines        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.78 % 
+Qwen                     138 lines           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.08 % 
 Deepseek                 18 lines            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.14 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📝 Concise Prompter — average 410 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 1.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.25% of written lines came from AI
+📝 Concise Prompter — average 433 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -69,7 +69,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 18/08/2026 19:24:09 UTC
+ Last Updated on 19/08/2026 19:19:44 UTC
 <!--END_SECTION:waka-->
 
 <!--     ![NoyeArk's github stats](https://github-readme-stats.vercel.app/api?username=NoyeArk&show_icons=true) -->
